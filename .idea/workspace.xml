@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42f3cab6-21e3-4120-9d33-cd93444824fa" name="Changes" comment="add new funcs in views.py">
-      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reports.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_reports.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_services.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+    <list default="true" id="42f3cab6-21e3-4120-9d33-cd93444824fa" name="Changes" comment="add main.py">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poetry.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +117,39 @@
       <option name="project" value="LOCAL" />
       <updated>1760467124970</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add reports.py and services.py">
+      <option name="closed" value="true" />
+      <created>1760553836500</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1760553836500</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add tests">
+      <option name="closed" value="true" />
+      <created>1760553859049</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1760553859049</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update utils.py and views.py">
+      <option name="closed" value="true" />
+      <created>1760553942786</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760553942786</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add main.py">
+      <option name="closed" value="true" />
+      <created>1760553990437</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1760553990437</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -136,6 +157,10 @@
     <MESSAGE value="add new funcs" />
     <MESSAGE value="update utils.py" />
     <MESSAGE value="add new funcs in views.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new funcs in views.py" />
+    <MESSAGE value="add reports.py and services.py" />
+    <MESSAGE value="add tests" />
+    <MESSAGE value="update utils.py and views.py" />
+    <MESSAGE value="add main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add main.py" />
   </component>
 </project>
